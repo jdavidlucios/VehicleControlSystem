@@ -30,4 +30,4 @@ This structure should allow you to test the interaction between the Python off-c
 
 **License**
 
-This is an open source proyect draft that you can copy, improve, test and/or implement freely. It's intended to be used within new decentralized 4.0 cities as part of their public infrastructure.
+This is an open source project draft that you can copy, improve, test and/or implement freely. It's intended to be used within new decentralized 4.0 cities as part of their public infrastructure.
